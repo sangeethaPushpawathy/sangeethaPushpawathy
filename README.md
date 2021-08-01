@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sangeethaPushpawathy
+- 👀 I’m interested in Laravel, GCP, AWS, Javascript, Jquery, ReactJs, Mongodb.
+- 🌱 I’m currently learning GCP, ReactJs.
+- 💞️ I’m looking to collaborate on GCP and AWS.
+- 📫 How to reach me sangeethapushpawathy@gmail.com
